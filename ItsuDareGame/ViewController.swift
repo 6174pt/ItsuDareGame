@@ -24,10 +24,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        itsuLabel.layer.cornerRadius = 12
-        dokodeLabel.layer.cornerRadius = 12
-        daregaLabel.layer.cornerRadius = 12
-        doshitaLabel.layer.cornerRadius = 12
+        itsuLabel.layer.cornerRadius = 15
+        dokodeLabel.layer.cornerRadius = 15
+        daregaLabel.layer.cornerRadius = 15
+        doshitaLabel.layer.cornerRadius = 15
         
         itsuLabel.clipsToBounds = true
         dokodeLabel.clipsToBounds = true
